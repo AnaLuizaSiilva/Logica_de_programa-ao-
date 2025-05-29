@@ -1,0 +1,91 @@
+Exercício 1
+ Para mover os arquivos: selecione o arquivo, arraste e solte para a
+pasta.
+
+Exercício 2
+ Verificar suas conexões.
+ Definir como padrão nas configurações &gt; impressoras e scanners.
+ Checar a fila de impressão e cancelar documentos travados
+ Reiniciar a impressora e o computador.
+ Atualizar os drivers no gerenciador de dispositivos.
+
+Exercício 3
+ Clicar na tecla “Alt+F4”
+
+Exercício 4
+ Abrir as configurações e ir para “Windows Update”
+ Clicar em instalar atualizações pendentes e depois reiniciar
+o PC.
+ Essas atualizações servem para melhoria do sistema e bugs
+apresentados.
+ Aumentam a segurança contra vírus.
+ Garantindo a compatibilidade com novos softwares.
+
+Exercício 5
+ Não abrir o arquivo e fechar o aviso
+ Remover a ameaça no Windows Defender
+ Excluir o arquivo suspeito
+ Fazer uma verificação completa no sistema
+Exercício 6
+
+ Abrir Limpeza de discos, clicando em Configurações –
+Sistemas e depois em Armazenamento.
+ Desinstalar programas não usados entrando nas
+Configurações e depois clicando em Aplicativos.
+
+Exercício 7
+ Verificar o modo avião
+ Reiniciar o computador
+ Reiniciar o roteador
+ Ou redefinir sua rede em configurações &gt; rede e internet &gt;
+status.
+
+Exercício 8
+ Criar contas abrindo a Configurações depois vá em contas e
+clique em Família e outros usuários
+ Definir as permissões como Administrador ou Padrão
+ Gerenciar as contas em abrindo o painel de controle e
+clicando em contas de usuários.
+ Garantindo que os alunos não alterem os arquivos uns do
+outro.
+
+Exercício 9
+ Verificar a lixeira, acessando na área de trabalho
+ Procurar a pasta excluída, clique com o botão direito e
+seleciona Restaurar
+
+Exercício 10.
+
+ Abrir as configurações (Win+i)
+ Acessar “Aplicativos” depois “Aplicativos Padrão”
+ Selecionar “Navegador da Web” e escolher o navegador
+desejado.
+
+Exercício 11
+ Clique com o botão direito na área de trabalho
+ Abre configurações de exibição
+ Clique em Resolução da Tela e depois escolher a resolução
+recomendada.
+
+Exercício 12
+
+ Abrir configurações
+ Ir até acessibilidade depois tamanho de texto
+ Aumentar conforme o necessário.
+
+Exercício 13
+
+ Pressionar a tecla “Win+R” e digite “rstrui”
+ Escolha um ponto de restauração confirme e
+reinicie o PC
+
+Exercício 14
+ Procurar o Word no Menu Iniciar
+ Clique com o botão direito – enviar para – Área de
+trabalho, depois criar atalho.
+
+Exercício 15
+
+ Abrir o gerenciador de tarefas
+ Ir até a aba Inicializar e desativar os programas
+desnecessários.
